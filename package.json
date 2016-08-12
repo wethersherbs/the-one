@@ -1,0 +1,19 @@
+{
+  "name": "the-one",
+  "version": "1.0.0",
+  "description": "Is there any way that I could stay in your arms?",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wethersherbs/the-one.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wethersherbs/the-one/issues"
+  },
+  "homepage": "https://github.com/wethersherbs/the-one#readme"
+}
